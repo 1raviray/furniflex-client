@@ -1,0 +1,775 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+.card-wraper{
+    height: 500px;
+    width: 80px;
+    border-radius: 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: .5s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.input-radio:checked + label{
+    width: 500px;
+}
+.input-radio{display: none}
+.card-wraper[for="no.1"]{
+    background-image: url("https://cms.interiorcompany.com/wp-content/uploads/2023/11/simple-wood-bed-design-for-bedroom.png");
+    background-size: cover;
+    background-position: center;
+}
+.card-wraper[for="no.2"]{
+    background-image: url('https://dms.mydukaan.io/original/jpeg/upload_file_service/c153799b-2716-4a2d-86a6-e8e4c2efc027/whatsapp-image-2023-02-19-at-11-46-23-pm.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.card-wraper[for="no.3"]{
+    background-image: url('https://media.architecturaldigest.com/photos/65e9f911e202af5e1c895748/1:1/w_3583,h_3583,c_limit/Savvy%20Interiors.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.wraper-para{
+    transform: translateX(20px);
+}
+
+
+
+.font-poppins{
+    font-family: 'Poppins';
+}
+.primary-bgcolor{
+    background-color: #2D5356 !important;
+}
+.primary-color{
+    color: #2D5356 !important;
+}
+.secondary-bgcolor{
+    background-color:#D09423 !important;
+}
+.terirary-bgcolor{
+    background-color: #F5F5F5 !important;
+}
+.navlink{
+    color: #fff !important;
+    position: relative;
+    overflow: hidden;
+}
+.cartColor{
+    color: #b0b0b0;
+}
+.active{
+    position: relative;
+}
+/* .active::before{
+    content: '';
+    height: 3px;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #D09423;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+} */
+
+.navlink::before{
+    content: '';
+    height: 3px;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #D09423;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateX(-200px);
+    transition: all 0.5s;
+}
+.navlink:hover::before{
+    transform: translateX(0);
+}
+.icon-circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height:35px;
+    background-color: #ffffff30;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.hero-span{
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #ffffff30;
+    font-family: "Radio Canada Big", sans-serif;
+    letter-spacing: 2px;
+    border: 1px solid #ffffff70;
+}
+.hero-para{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 80px;
+}
+.hero-btn{
+    background-color: #D09423;
+    color: #fff;
+    border: 0;
+    padding: 10px 30px;
+    border-radius: 30px;
+    transition: all .2s cubic-bezier(0.68, -0.55, 0.265, 1.55)
+}
+.hero-btn:hover{
+    box-shadow: -5px 5px 5px #000;
+}
+.hero-btn i{
+    transition: all .2s cubic-bezier(0.68, -0.55, 0.265, 1.55)
+}
+.hero-btn:hover i{
+    transform: scale(1.3);
+}
+.wraper-anime{
+    animation: hero_anime .6s;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+@keyframes hero_anime{
+    0%{
+        transform: scale(0);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+.Logout div{
+    visibility: hidden;
+    transform: translateY(15%);
+    background-color: #396b6e;
+    transition: all .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.Logout:hover div{
+    transform: translateY(0%);
+    visibility: visible;
+}
+
+.title-name{
+    height: 250px;
+    width: 100%;
+    background-color: #2D5356;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Radio Canada Big", sans-serif;
+    letter-spacing: 1px;
+}
+.contact-icon{
+    height: 50px;
+    width:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.contact-form{
+    background-color: #2D5356;
+    border-radius: 20px;
+    color: #fff;
+}
+.contact-btn{
+    background-color: #D09423;
+    border: 0;
+    width: 100%;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 20px;
+}
+.sect-icon{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #D09423;
+    color: #fff;
+    box-shadow: -15px 0 #00000020;
+    margin-bottom: 10px;
+}
+.credit{
+    width: 100px;
+}
+.line-btn{
+    color: #2D5356;
+    background-color: #F5F5F5;
+    border: 0;
+    position: relative;
+}
+.line-btn::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1.5px;
+    background-color: #2D5356;
+}
+
+
+.sectio4_card{
+    background-color: #F5F5F5;
+    padding: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+.sectio4_card img{
+    width: 100% !important;
+    transition: all .3s cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+.sectio4_card:hover img{
+    transform: scale(1.3) rotateY(0deg);
+}
+.section4-font{
+    font-family: "Radio Canada Big", sans-serif;
+}
+
+
+.section5-discount{
+    background-color: #2D5356;
+    width: 50px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 20px 0;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 14px;
+}
+.section5-wishlist{
+    background-color: #00000020;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 20px 0;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.PDetails{
+    padding: 10px 0px ;
+    background-color: #00000010;
+    border-radius: 50px;
+}
+.PDetailsBtn{
+    background-color: #fff;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 20px 0;
+    border: 0;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: all 0.2s linear ;
+}
+.PDetailsBtn:hover{
+    background-color: #2D5356;
+    color: #fff !important;
+}
+.section5-wishlist i{
+    color: #000;
+}
+.section5-img{
+    height: 210px;
+}
+.section5-cart{
+    width: 50px;height: 50px;
+    background-color: #fff;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color:#D09423;
+    border-radius: 50%;
+    display: block;
+    cursor: pointer;
+}
+.card .bi-cart-fill{
+    transition: all .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.card:hover .bi-cart-fill{
+    transform: rotate(360deg) scale(1.2);
+}
+.section7-bg{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    height: 60vh;
+}
+.section8-border{
+    border-bottom: #ffffff20 4px solid;
+}
+.trans{
+    transform: translateX(-500px);
+}
+
+.accordion{
+    --bs-accordion-active-bg: #2D5356 !important;
+}
+.accordion-button:not(.collapsed) {
+    color: #f5f5f5 !important
+}
+button:focus:not(:focus-visible) {
+    outline: 0;
+}
+.accordion-button:focus {
+    z-index: 0 !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image:url('./Components/Assets/incorrect-cross-symbol-f6mt8m7c6sxg1sp7.png') !important;
+    transform: var(--bs-accordion-btn-icon-transform);
+  }
+  .accordion-button::after {
+    flex-shrink: 0;
+    width: var(--bs-accordion-btn-icon-width);
+    height: var(--bs-accordion-btn-icon-width);
+    margin-left: auto;
+    content: "";
+    background-image: url(./Components/Assets/109617.png) !important;
+    background-repeat: no-repeat;
+    background-size: var(--bs-accordion-btn-icon-width);
+    transition: var(--bs-accordion-btn-icon-transition);
+  }
+  .section11-form{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 80%;
+  }
+  .section11-input{
+    border: 2px #D09423 solid;
+    padding: 10px 40px;
+    width: 100%;
+    border-radius: 30px;
+  }
+  .section11-input:focus{
+    outline: none;
+  }
+  .section11-icon{
+    position: absolute;
+    left: 10px;
+    color: #2D5356;
+    font-size: 18px;
+  }
+  .section11-submit{
+    position: absolute;
+    border: 0;
+    background-color: #D09423;
+    color: #fff;
+    padding: 8px;
+    border-radius: 30px;
+    right: 5px;
+  }
+.products-btn{
+    background-color: #2D5356;
+    color: #fff;
+    border: 0;
+    padding: 10px;
+    display: block;
+    width: 100%;
+    position: relative;
+}
+.products-btn::after{
+    background-image: url('./Components/Assets/109617.png');
+    width: 50px;height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 6;
+}
+.products-radio{
+    border: 2px #00000020 solid;
+    padding: 6px 0 6px 30px;
+    border-radius: 30px;
+    width: 70%;
+}
+.products-border{
+    border: #00000010 solid 2px;
+}
+.about-border{
+    /* overflow: hidden; */
+    border-radius: 3000px 0 0 3000px;
+    border: #2D5356 15px solid; 
+    border-right: 0;
+}
+.about-img{
+    border-radius: 3000px 300px 300px 3000px;
+    padding:10px 0 10px 10px
+}
+.about-circle{
+    width: 15px;height: 15px;
+    border-radius: 50%;
+    background-color: #2D5356;
+    position: absolute;
+    top: -15px;right: -7.5px;
+}
+.about-border1{
+    /* overflow: hidden; */
+    border-radius:0 3000px 3000px 0;
+    border: #2D5356 15px solid; 
+    border-left: 0;
+}
+.about-img1{
+    border-radius: 300px 3000px 3000px 300px;
+    padding:10px 10px 10px 0px
+}
+.about-circle1{
+    width: 15px;height: 15px;
+    border-radius: 50%;
+    background-color: #2D5356;
+    position: absolute;
+    bottom: -15px;left: -7.5px;
+}
+.productDetail-modalImg{
+    width: 60px;
+    padding-right: 5px;
+}
+.PDetails-emptyImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #00000020;
+}
+.MainCard .Details{
+    transition: all 0.2s ;
+}
+.MainCard:hover .Details{
+    background-color: #2D5356 !important;
+    color: #fff;
+}
+.MainCard .Details .icon-circle{
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.MainCard .Details .icon-circle:hover{
+    scale: 1.3;
+    color: #D09423 !important;
+}
+.Blogerimg{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1);
+}
+.blogImg img{
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.blogImg:hover img{
+    scale: 1.05;
+}
+.adminbtn1{
+    padding: 10px 20px;
+    color: #2D5356;
+    background-color: #fff;
+    border: 0;
+    width: 100%;
+    margin-bottom: 30px;
+    transition: all .2s;
+    border-radius: 50px 0 0 50px;
+    position: relative;
+    display: flex;
+}
+.adminbtn1::before{
+    width: 20px;
+    height: 20px;
+    content: '';
+    background-color: #2D5356;
+    /* box-shadow: 0 10px #2D5356; */
+    box-shadow: 0 10px #fff;
+    position: absolute;
+    top: -20px;
+    right: 0;
+    border-radius: 0 0 10px 0;
+    transition: all .2s;
+}
+.adminbtn1::after{
+    width: 20px;
+    height: 20px;
+    content: '';
+    background-color: #2D5356;
+
+    position: absolute;
+    bottom: -20px;
+    right: 0;
+    border-radius: 0 10px 0 0;
+    box-shadow: 0 -10px #fff;
+    transition: all .2s;
+}
+.adminbtn{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #2D5356;
+    border: 0;
+    width: 100%;
+    margin-bottom: 30px;
+    transition: all .2s;
+    border-radius: 50px 0 0 50px;
+    position: relative;
+    display: flex;
+}
+.adminbtn::before{
+    width: 20px;
+    height: 20px;
+    content: '';
+    background-color: #2D5356;
+    box-shadow: 0 10px #2D5356;
+    position: absolute;
+    top: -20px;
+    right: 0;
+    border-radius: 0 0 10px 0;
+    transition: all .2s;
+}
+.adminbtn::after{
+    width: 20px;
+    height: 20px;
+    content: '';
+    background-color: #2D5356;
+    position: absolute;
+    bottom: -20px;
+    right: 0;
+    border-radius: 0 10px 0 0;
+    box-shadow: 0 -10px #2D5356;
+    transition: all .2s;
+}
+.adminbtn:hover::after{
+    box-shadow: 0 -10px #fff;
+}
+.adminbtn:hover::before{
+    box-shadow: 0 10px #fff;
+}
+.adminbtn:hover{
+    background-color: #fff;
+    color: #000;
+    
+}
+.col-2{
+    transition: all .5s cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+}
+.col-10{
+    transition: all .5s cubic-bezier(0.075, 0.82, 0.165, 1) !important;
+}
+.col1{
+    overflow: hidden;
+    transition: all .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    width: 4.2% !important;
+}
+.col10{
+    overflow: hidden;
+    transition: all .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    width: 95.8% !important;
+}
+.dashboard-pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.dashboard-cards{
+    transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.dashboard-cards:hover{
+    background-color: white !important;
+    color: #2D5356 !important;
+    box-shadow: 2px 2px 10px #00000020;
+}
+.dashboard-cards h3{
+    transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.dashboard-cards:hover h3{
+    color: #D09423;
+}
+.AdminProduct-Btn button{
+    width: 100%;
+    padding: 20px;
+    background-color: #2D5356;
+    color: #fff;
+    border: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+.AdminProduct-Btn1 button{
+    width: 100%;
+    padding: 20px;
+    background-color: #D09423;
+    color: #fff;
+    border-radius: 40px;
+    border: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+.AdminProduct-Btn button:hover{
+    background-color: #D09423;
+    /* color: #2D5356; */
+}
+.btnedit,.btndelete{
+    position: absolute;
+    background-color: #D0942320;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    z-index: 10;
+    transform: translateY(-600px);
+    visibility: hidden;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.btndelete{
+    right: 0;
+    background-color: #ff000020;
+    transform: translateY(600px);
+}
+.editCard:hover .btndelete,.editCard:hover .btnedit{
+    transform: translateY(0);
+    visibility: visible;
+
+}
+.editCard:hover .blurCard{
+    filter: blur(5px);
+}
+.position-sticky{
+    position: sticky !important;
+    top: 0 !important;
+}
+.blogBtn{
+    top:400%;
+    left: 500%;
+    transform: translate(-50%,-50%);
+    z-index: 12;
+    transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1);
+}
+.blogImg:hover .blogBtn{
+    top: 40%;
+    left: 50%;
+}
+.blogpic:hover img{
+    filter: blur(5px);
+}
+
+.pSticky{
+    position: sticky;
+    top: 0;
+}
+.cartNumber{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    position: absolute;
+    top: -2px;
+    right: -12px;
+}
+.displayOnlySM{
+    display: none;
+}
+.cartImg{
+    height: 40px;
+}
+
+
+
+@media(max-width:576px){
+    .d-small-none{
+        display: none !important;
+    }
+    .hero-para{
+        font-size: 30px;
+        line-height: normal;
+    }
+    .card-wraper{
+        height: 300px;
+        width: 40px;
+    }
+    .input-radio:checked + label{
+        width: 300px;
+    }
+    .about-border{
+        border-radius: 10px;
+        border: #2D5356 15px solid;
+        margin-bottom: 12px;
+    }
+    .about-img{
+        border-radius: 0px;
+        padding:0
+    }
+    .about-circle{
+        display: none;
+    }
+    .displayOnlySM{
+        display: block;
+        border-radius:10px;
+        border: #2D5356 15px solid;
+        margin-bottom: 12px;
+    }
+    .about-border1{
+        /* overflow: hidden; */
+        display: none;
+        border-radius:10px;
+        border: #2D5356 15px solid;
+    }
+    .about-img1{
+        border-radius: 0px;
+        padding:0px
+    }
+    .about-circle1{
+        display: none;
+    }
+}
+
+
+
+@media(max-width:768px){
+    .d-small-none{
+        display: none;
+    }
+    .hero-para{
+        font-size: 30px;
+        line-height: normal;
+    }
+    .card-wraper{
+        height: 320px;
+        width: 50px;
+    }
+    .input-radio:checked + label{
+        width: 25zoon0px;
+    }
+}
+
+
+
+.board{
+    width: 300px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.blocks{
+    width: 100px;
+    height: 100px;
+}

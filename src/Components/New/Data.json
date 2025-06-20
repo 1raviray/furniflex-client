@@ -1,0 +1,610 @@
+{
+  "orders":[],
+  "Users": [
+    {
+      "Name": "Raviraj",
+      "Email": "raviraj@gmail.com",
+      "Phone": "9987678789",
+      "Password": "qwert1231",
+      "id": "33de"
+    },
+    {
+      "Name": "Naruto Uzumaki",
+      "Email": "naruhina@gmail.com",
+      "Phone": "7890984534",
+      "Password": "narutohinata",
+      "id": "8e55"
+    },
+    {
+      "id": "9733",
+      "Name": "Hinata",
+      "Email": "hinatahyga@gmail.com",
+      "Password": "qazwsxedc",
+      "Phone": "9956842577",
+      "ConfirmPassword": "qazwsxedc"
+    },
+    {
+      "id": "6183",
+      "Name": "Luffy",
+      "Email": "luffy@gmail.com",
+      "Password": "qwertyuiop",
+      "Phone": "99897654678",
+      "ConfirmPassword": "qwertyuiop"
+    },
+    {
+      "id": "2688",
+      "Name": "Sasuke",
+      "Email": "sasuke@gmail.com",
+      "Password": "qwerty123",
+      "Phone": "9908757890",
+      "ConfirmPassword": "qwerty123"
+    },
+    {
+      "id": "8ad9",
+      "Name": "Madara",
+      "Email": "madarauchiha@gmail.com",
+      "Password": "1q2w3e4r1",
+      "Phone": "9987898767",
+      "ConfirmPassword": "1q2w3e4r1"
+    },
+    {
+      "id": "d9c1",
+      "Name": "Tanjiro",
+      "Email": "tanjirokamodo@yahoo.com",
+      "Password": "123654789",
+      "Phone": "7789658965",
+      "ConfirmPassword": "123654789"
+    },
+    {
+      "Name": "Tony stark",
+      "Email": "tonyironman@gmail.com",
+      "Phone": "9989098767",
+      "Password": "1q2w3e4r5t",
+      "id": "a707"
+    },
+    {
+      "id": "bd70",
+      "Name": "Mahesh",
+      "Email": "maheshbabu@gmail.com",
+      "Password": "123123123",
+      "Phone": "9968574785",
+      "ConfirmPassword": "123123123"
+    }
+  ],
+  "Items": [
+    {
+      "Category": "Living room",
+      "ItemName": "Lewis Sectional Sofa",
+      "Discription": "The Lewis Sectional Sofa offers a perfect blend of modern elegance and plush comfort, making it an ideal centerpiece for any living room. Its sleek, low-profile design is complemented by soft, generously padded cushions that provide ample support for lounging or entertaining guests. Upholstered in high-quality fabric or leather, the Lewis sectional is available in various colors and configurations to suit your space. Its sturdy frame ensures durability, while the deep seats and modular components allow for versatile arrangements, making it a stylish and functional choice for any home.",
+      "ImageURL": "https://www.ulcdn.net/images/products/183644/original/Lewis_Infinity_Sofa_FNSF51LSCO3SR00SAAAA_slide_00.jpg?1524301923",
+      "ImageURL1": "https://www.ulcdn.net/images/products/183648/original/Lewis_Infinity_Sofa_FNSF51LSCO3SR00SAAAA_slide_04.jpg?1524301927",
+      "ImageURL2": "https://www.ulcdn.net/images/products/183649/original/Lewis_Infinity_Sofa_FNSF51LSCO3SR00SAAAA_slide_05.jpg?1524301927",
+      "ImageURL3": "https://www.ulcdn.net/images/products/183646/original/Lewis_Infinity_Sofa_FNSF51LSCO3SR00SAAAA_slide_02.jpg?1524301925",
+      "Rating": "4.5",
+      "Color": "Blue",
+      "Cost": "60000",
+      "Discount": "15",
+      "id": "62a4"
+    },
+    {
+      "Category": "Living room",
+      "ItemName": "Apollo Sofa",
+      "Discription": "The Apollo Sofa is a sleek and modern piece of furniture, designed to combine comfort with contemporary style. Its clean lines and minimalist silhouette make it an elegant addition to any living space. Upholstered in high-quality fabric or leather, the Apollo Sofa offers both durability and a luxurious feel. It features generously cushioned seating with plush backrests for optimal comfort. The sofa’s sturdy frame and supportive base ensure lasting stability, while its versatile design complements a range of interior decor, making it a perfect centerpiece for any room.",
+      "ImageURL": "https://www.ulcdn.net/images/products/187892/original/Apollo_Infinite_FNSF51APPG30000SAAAA_slide_02.jpg?1525069449",
+      "ImageURL1": "https://www.ulcdn.net/images/products/213796/original/Apollo_Sofa_Set_FNSF51APPG30000STAAA_slide_06.jpg?1538734427",
+      "ImageURL2": "https://www.ulcdn.net/images/products/213790/original/Apollo_Sofa_Set_FNSF51APPG30000STAAA_slide_00.jpg?1538734419",
+      "ImageURL3": "https://www.ulcdn.net/images/products/285079/original/Apollo_Sofa_Set_FNSF51APPG30000STAAA_slide_20.jpg?1572348728",
+      "Rating": "4.4",
+      "Color": "Grey",
+      "Cost": "42000",
+      "Discount": "20",
+      "id": "4e8c"
+    },
+    {
+      "Category": "Living room",
+      "ItemName": " Ivy Fabric Accent Chair",
+      "Discription": "The Ivy Fabric Accent Chair is a stylish and comfortable addition to any living space, featuring a sleek, modern design with clean lines and a soft, textured fabric upholstery that invites relaxation. The chair's gently curved back and supportive cushioning provide excellent comfort, while its sturdy wooden legs, often crafted from oak or pine, offer durability and a touch of natural warmth. Available in a range of colors to suit various interior décors, this accent chair effortlessly combines form and function, making it a versatile statement piece for both contemporary and traditional settings.",
+      "ImageURL": "https://www.ulcdn.net/images/products/833799/slide/666x363/JJSTCH62GR10331_2.jpg?1689336018",
+      "ImageURL1": "https://www.ulcdn.net/images/products/833791/slide/666x363/JJSTCH62GR10331_1.jpg?1689336012",
+      "ImageURL2": "https://www.ulcdn.net/images/products/833817/slide/666x363/JJSTCH62GR10331_4.jpg?1689336032",
+      "ImageURL3": "https://www.ulcdn.net/images/products/833846/slide/666x363/JJSTCH62GR10331_6.jpg?1689336045",
+      "Rating": "4.7",
+      "Color": "Green",
+      "Cost": "8900",
+      "Discount": "10",
+      "id": "f9f8"
+    },
+    {
+      "id": "ca0e",
+      "Category": "Outdoor",
+      "ItemName": " Wollman Solid Wood Table",
+      "Discription": "The Wollman Solid Wood Outdoor Table in Brown Colour is a perfect blend of elegance and durability, designed to elevate your outdoor living space. Crafted from high-quality solid wood, this table offers a rich, natural brown finish that complements any garden, patio, or balcony setting. Its sturdy construction ensures lasting use, while the smooth surface provides ample space for dining, entertaining, or simply enjoying a relaxing moment outdoors. The table's timeless design and warm tone make it a versatile addition, seamlessly fitting into both contemporary and traditional outdoor decors.",
+      "ImageURL": "https://www.ulcdn.net/images/products/886795/slide/666x363/JJTBCF62BR32063_1.jpg?1710156538",
+      "ImageURL1": "https://www.ulcdn.net/images/products/886813/slide/666x363/JJTBCF62BR32063_2.jpg?1710156548",
+      "ImageURL2": "https://www.ulcdn.net/images/products/886752/slide/666x363/JJTBCF62BR32063_3.jpg?1710156403",
+      "ImageURL3": "https://www.ulcdn.net/images/products/886898/slide/666x363/JJTBCF62BR32063_6.jpg?1710162076",
+      "Rating": "4.6",
+      "Color": "Brown",
+      "Cost": "10000",
+      "Discount": "5"
+    },
+    {
+      "Category": "Kitchen",
+      "ItemName": "Murphy 4-to-6 Extendable",
+      "Discription": "The Murphy 4-to-6 Extendable Dining Table is a versatile and stylish piece, perfect for modern living spaces. Crafted from durable materials, it features a clean, minimalist design with smooth lines and a sturdy structure. The table is easily extendable, allowing it to comfortably seat four to six people, making it ideal for both intimate dinners and larger gatherings. Its extendable mechanism operates seamlessly, providing convenience and flexibility. With a sleek finish, this table effortlessly blends into various decor styles, offering both functionality and aesthetic appeal for any dining room.",
+      "ImageURL": "https://www.ulcdn.net/images/products/297077/slide/666x363/Murphy_Persica_6_Seater_Dining_Table_Set_1.jpg?1591678284",
+      "ImageURL1": "https://www.ulcdn.net/images/products/297078/slide/666x363/Murphy_Persica_6_Seater_Dining_Table_Set_2.jpg?1591678285",
+      "ImageURL2": "https://www.ulcdn.net/images/products/297084/slide/666x363/Murphy_Persica_6_Seater_Dining_Table_Set_8.jpg?1591678288",
+      "ImageURL3": "https://www.ulcdn.net/images/products/297086/slide/666x363/Persica_Dining_Chair_Beige_17.jpg?1598683942",
+      "Rating": "4.8",
+      "Color": "Brown",
+      "Cost": "42200",
+      "Discount": "15",
+      "id": "41bc"
+    },
+    {
+      "Category": "Office",
+      "ItemName": " Barry Engineered Wood Table",
+      "ImageURL": "https://www.ulcdn.net/images/products/584929/slide/666x363/FVTBST33BR21643_1.jpg?1655892931",
+      "Rating": "4.7",
+      "Color": "",
+      "Cost": "72000",
+      "Discount": "16",
+      "id": "13a4"
+    },
+    {
+      "Category": "Outdoor",
+      "ItemName": "Sheesham Wood Swing",
+      "Discription": "The Sheesham Wood Swing is a beautifully crafted piece of furniture, known for its durability, elegance, and intricate craftsmanship. Made from high-quality Sheesham wood, also known as Indian Rosewood, this swing exudes a rich, natural grain that enhances its aesthetic appeal. The robust wooden frame is often adorned with traditional carvings, lending a timeless charm to any space. Suitable for both indoor and outdoor use, the swing offers a comfortable, relaxing experience, perfect for lounging or adding a touch of luxury to a patio, garden, or living area. Its natural finish and sturdy build ensure it remains a long-lasting addition to your home.",
+      "ImageURL": "https://www.ulcdn.net/images/products/949995/slide/666x363/FVSHSW62BR88149_2.jpg?1722848969",
+      "ImageURL1": "https://www.ulcdn.net/images/products/950000/slide/666x363/FVSHSW62BR88149_3.jpg?1722848971",
+      "ImageURL2": "https://www.ulcdn.net/images/products/950005/slide/666x363/FVSHSW62BR88149_4.jpg?1722848974",
+      "ImageURL3": "https://www.ulcdn.net/images/products/950010/slide/666x363/FVSHSW62BR88149_5.jpg?1722848977",
+      "Rating": "4.9",
+      "Color": "Blue",
+      "Cost": "40000",
+      "Discount": "12",
+      "id": "0d3d"
+    },
+    {
+      "Category": "Bed room",
+      "ItemName": " Duetto Solid King Size Bed",
+      "Discription": "We use high-strength clamps, specially designed to prevent irksome creaks. So you can sleep like a baby, well into adulthood.With a distinctive natural wood grain finish, and a gently curving headboard, this bed is designed to wow!This sheesham wood bed comes with a 3-year warranty. Even better, it's resistant to moisture and those pesky little borers. What we call a worry-free bed.This bed is easy to take apart and reassemble. Wherever you go, it can go too. This bed is easy to take apart and reassemble. Wherever you go, it can go too!This bed is easy to take apart and reassemble. Wherever you go, it can go too. This bed is easy to take apart and reassemble. Wherever you go, it can go too.",
+      "ImageURL": "https://www.ulcdn.net/images/products/233142/slide/666x363/Duetto_Platform_Bed_1.jpg?1546585902",
+      "ImageURL1": "https://www.ulcdn.net/images/products/233143/slide/666x363/Duetto_Platform_Bed_2.jpg?1546585905",
+      "ImageURL2": "https://www.ulcdn.net/images/products/233144/slide/666x363/Duetto_Platform_Bed_3.jpg?1546585908",
+      "ImageURL3": "https://www.ulcdn.net/images/products/233145/slide/666x363/Duetto_Platform_Bed_4.jpg?1546585911",
+      "Rating": "4.5",
+      "Color": "Brown",
+      "Cost": "45000",
+      "Discount": "10",
+      "id": "3492"
+    },
+    {
+      "Category": "Bed room",
+      "ItemName": " Ritz Solid Wood Hydraulic Bed",
+      "Discription": "Elevate your bedroom with the Ritz Solid Wood Queen Size Hydraulic Storage Bed, crafted to combine luxury and functionality. Made from premium solid wood, this bed features a rich teak finish that adds warmth and sophistication to any space. The hydraulic storage system offers a convenient and spacious solution for all your storage needs, easily lifting to reveal ample space for linens, pillows, and more. Designed with a sturdy frame and elegant design, the Ritz bed ensures both comfort and style, making it a perfect centerpiece for your bedroom.",
+      "ImageURL": "https://www.ulcdn.net/images/products/571044/slide/666x363/Ritz_Hydraulic_Storage_Bed_-_Teak_Queen_Size_1.jpg?1654671701",
+      "ImageURL1": "https://www.ulcdn.net/images/products/571048/slide/666x363/Ritz_Hydraulic_Storage_Bed_-_Teak_Queen_Size_2.jpg?1654671704",
+      "ImageURL2": "https://www.ulcdn.net/images/products/571056/slide/666x363/Ritz_Hydraulic_Storage_Bed_-_Teak_Queen_Size_4.jpg?1654671709",
+      "ImageURL3": "https://www.ulcdn.net/images/products/571052/slide/666x363/Ritz_Hydraulic_Storage_Bed_-_Teak_Queen_Size_3.jpg?1654671707",
+      "Rating": "4.4",
+      "Color": "Brown",
+      "Cost": "50000",
+      "Discount": "12",
+      "id": "a865"
+    },
+    {
+      "Category": "Bed room",
+      "ItemName": " Amy Wood Storage Bed",
+      "Discription": "The Amy Engineered Wood Queen Size Box Storage Bed in Classic Walnut Finish is a perfect blend of style and functionality. Crafted from high-quality engineered wood, this bed features a rich walnut finish that adds a touch of elegance to any bedroom decor. Its spacious box storage allows for easy organization, helping you keep your space clutter-free. The sturdy construction ensures durability, while the sleek design offers a modern look. Ideal for those who value both aesthetics and practicality, this bed is a smart investment for a comfortable and stylish sleeping experience.",
+      "ImageURL": "https://www.ulcdn.net/images/products/719397/slide/666x363/Amy_Storage_Queen_Bed-_Classic_Walnut_1.jpg?1672929003",
+      "ImageURL1": "https://www.ulcdn.net/images/products/719398/slide/666x363/Amy_Storage_Queen_Bed-_Classic_Walnut_2.jpg?1672929021",
+      "ImageURL2": "https://www.ulcdn.net/images/products/719399/slide/666x363/Amy_Storage_Queen_Bed-_Classic_Walnut_3.jpg?1672929041",
+      "ImageURL3": "https://www.ulcdn.net/images/products/719400/slide/666x363/Amy_Storage_Queen_Bed-_Classic_Walnut_4.jpg?1672929057",
+      "Rating": "4.3",
+      "Color": "Brown",
+      "Cost": "17000",
+      "Discount": "8",
+      "id": "2f09"
+    },
+    {
+      "id": "0a0f",
+      "Category": "Outdoor",
+      "ItemName": " Masai Solid Wood Chair",
+      "Discription": "Introducing the Masai Solid Wood Outdoor Chair in a rich Dark Teak finish—a perfect blend of style and durability for your outdoor space. Crafted from premium solid wood, this chair boasts a sturdy construction designed to withstand the elements while offering exceptional comfort. Its elegant Dark Teak color enhances its natural grain, adding a touch of sophistication to any patio, deck, or garden. The chair features a classic design with a supportive backrest and comfortable seating, making it an ideal choice for relaxing or entertaining guests. Elevate your outdoor living area with this timeless piece that combines enduring quality with modern aesthetic.",
+      "Review": [],
+      "ImageURL": "https://www.ulcdn.net/images/products/119126/slide/666x363/Masai_Arm_Chair_Teak_Finish_01_7_1.jpg?1477422455",
+      "ImageURL1": "https://www.ulcdn.net/images/products/119130/slide/666x363/Masai_Arm_Chair_Teak_Finish_04_7_1.jpg?1477422464",
+      "ImageURL2": "https://www.ulcdn.net/images/products/119129/slide/666x363/Masai_Arm_Chair_Teak_Finish_05_6_1.jpg?1477422462",
+      "ImageURL3": "https://www.ulcdn.net/images/products/871446/slide/666x363/Masai_Arm_Chair_Table_Set_Teak_Finish_06_6_1_3.png?1698384334",
+      "Rating": "4.3",
+      "Color": "Brown",
+      "Cost": "5200",
+      "Discount": "10"
+    },
+    {
+      "Category": "Office",
+      "ItemName": " Meridian Wood Study Table",
+      "Discription": "The Meridian Engineered Wood Study Table in Finish seamlessly combines elegance and functionality, making it a perfect addition to any study space. Crafted from high-quality engineered wood, this study table features a sleek, modern finish that enhances its durability and visual appeal. The spacious tabletop provides ample room for books, a laptop, or study materials, while the sturdy legs ensure stability and long-lasting use. With its clean lines and sophisticated design, the Meridian Study Table offers a stylish and practical solution for creating an organized and inspiring study environment.",
+      "ImageURL": "https://www.ulcdn.net/images/products/584843/slide/666x363/FVTBST33BR21650_1.jpg?1655892794",
+      "ImageURL1": "https://www.ulcdn.net/images/products/584856/slide/666x363/FVTBST33BR21650_2.jpg?1655892804",
+      "ImageURL2": "https://www.ulcdn.net/images/products/584869/slide/666x363/FVTBST33BR21650_3.jpg?1655892812",
+      "ImageURL3": "https://www.ulcdn.net/images/products/584881/slide/666x363/FVTBST33BR21650_4.jpg?1655892819",
+      "Rating": "4.6",
+      "Color": "Brown",
+      "Cost": "140000",
+      "Discount": "15",
+      "id": "d6c9"
+    },
+    {
+      "Category": "Office",
+      "ItemName": " Theon Wood Study Table",
+      "Discription": "The Theon Engineered Wood Study Table in Finish combines sleek design with exceptional durability, making it a perfect addition to any study or workspace. Crafted from high-quality engineered wood, this study table features a smooth, finished surface that is both easy to clean and resistant to wear and tear. Its modern design includes ample surface area for writing or using a computer, and integrated storage options for keeping your essentials organized and within reach. With its elegant finish and sturdy construction, the Theon Study Table effortlessly blends functionality with contemporary style, providing a reliable and attractive solution for your study needs.",
+      "ImageURL": "https://www.ulcdn.net/images/products/584846/slide/666x363/FVTBST33BR21660_1.jpg?1655892796",
+      "ImageURL1": "https://www.ulcdn.net/images/products/584859/slide/666x363/FVTBST33BR21660_2.jpg?1655892806",
+      "ImageURL2": "https://www.ulcdn.net/images/products/584872/slide/666x363/FVTBST33BR21660_3.jpg?1655892814",
+      "ImageURL3": "https://www.ulcdn.net/images/products/584884/slide/666x363/FVTBST33BR21660_4.jpg?1655892821",
+      "Rating": "4.8",
+      "Color": "Brown",
+      "Cost": "170000",
+      "Discount": "10",
+      "id": "3dab"
+    },
+    {
+      "Category": "Decor",
+      "ItemName": "Gold Metal Round Clock",
+      "Discription": "This elegant Gold Metal Round Analog Wall Clock adds a touch of sophistication to any room with its sleek design. Crafted from high-quality metal, the clock features a polished gold finish that radiates luxury and timeless appeal. Its minimalist round shape is complemented by clear, easy-to-read black hands and bold numerals set against a classic white dial, ensuring both style and functionality. Perfect for both modern and traditional interiors, this wall clock not only serves as a reliable timepiece but also as a stunning decorative accent for your home or office.",
+      "ImageURL": "https://www.ulcdn.net/images/products/914605/slide/666x363/VAWDWC61GD87391_5.jpg?1720779877",
+      "ImageURL1": "https://www.ulcdn.net/images/products/914626/slide/666x363/VAWDWC61GD87391_6.jpg?1720779883",
+      "ImageURL2": "https://www.ulcdn.net/images/products/914503/slide/666x363/VAWDWC61GD87391_2.jpg?1720779843",
+      "ImageURL3": "https://www.ulcdn.net/images/products/914565/slide/666x363/VAWDWC61GD87391_4.jpg?1720779867",
+      "Rating": "4.5",
+      "Color": "Orange",
+      "Cost": "4000",
+      "Discount": "5",
+      "id": "25f1"
+    },
+    {
+      "id": "0491",
+      "Category": "Decor",
+      "ItemName": "Multicolor Metal Wall Clock",
+      "Discription": "This multicolor metal irregular analog wall clock is a unique and artistic timepiece, designed to add a bold statement to any interior space. The clock features an eye-catching irregular shape, combining various geometric elements and metallic accents in a harmonious yet eclectic design. Its vivid multicolor palette contrasts beautifully against the sleek metal frame, creating a striking visual appeal. The analog display, with its elegant hands and clear numerals, ensures both style and functionality. Perfect for modern and contemporary settings, this clock is not just a timekeeper but a captivating piece of wall art.",
+      "ImageURL": "https://www.ulcdn.net/images/products/914502/slide/666x363/VAWDWC61ML87378_2.jpg?1720779842",
+      "ImageURL1": "https://www.ulcdn.net/images/products/914524/slide/666x363/VAWDWC61ML87378_3.jpg?1720779854",
+      "ImageURL2": "https://www.ulcdn.net/images/products/914562/slide/666x363/VAWDWC61ML87378_4.jpg?1720779866",
+      "ImageURL3": "",
+      "Rating": "4.2",
+      "Color": "Black",
+      "Cost": "3800",
+      "Discount": "5"
+    },
+    {
+      "Category": "Kitchen",
+      "ItemName": "Hubert Kitchen Cabinet",
+      "Discription": "The Hubert 6 Door Kitchen Display Cabinet is a stylish and functional storage solution designed for modern kitchens. Crafted with a sleek, minimalist design, it features six spacious doors, offering ample storage space for kitchen essentials, dishes, or decorative items. The upper display section includes glass-paneled doors, perfect for showcasing fine china or glassware, while the lower cabinets provide concealed storage for less frequently used items. Built with durable materials, this cabinet combines practicality with elegance, making it an ideal addition to any contemporary kitchen or dining area. Its neutral finish complements a variety of interior styles.",
+      "ImageURL": "https://www.ulcdn.net/images/products/823469/slide/666x363/a.jpg?1686315003",
+      "ImageURL1": "https://www.ulcdn.net/images/products/823472/slide/666x363/b.jpg?1686315018",
+      "ImageURL2": "https://www.ulcdn.net/images/products/823478/slide/666x363/h.png?1686315051",
+      "ImageURL3": "https://www.ulcdn.net/images/products/823656/slide/666x363/e.png?1686315072",
+      "Rating": "4.1",
+      "Color": "Brown",
+      "Cost": "19996",
+      "Discount": "12",
+      "id": "f77d"
+    },
+    {
+      "Category": "Living room",
+      "ItemName": "Accent Chair in White Colour",
+      "Discription": "The Ormond Leatherette Accent Chair in White is a stylish and contemporary piece designed to elevate any living space. Upholstered in high-quality white leatherette, it offers a sleek and smooth finish that adds a touch of elegance and modern sophistication. The chair features a comfortable padded seat and backrest, making it ideal for relaxation or casual seating. Its sturdy frame and minimalist design, with clean lines and a chic silhouette, make it a versatile addition to various decor styles, from modern to classic. Perfect for a living room, bedroom, or office, this chair combines comfort and aesthetics effortlessly.",
+      "ImageURL": "https://www.ulcdn.net/images/products/128953/slide/666x363/a.jpg?1674035769",
+      "ImageURL1": "https://www.ulcdn.net/images/products/128953/slide/666x363/a.jpg?1674035769",
+      "ImageURL2": "https://www.ulcdn.net/images/products/52281/slide/666x363/Ormond_Accent_Chair_07_8.JPG?1442211736",
+      "ImageURL3": "https://www.ulcdn.net/images/products/369537/slide/666x363/h.png?1674035869",
+      "Rating": "4.0",
+      "Color": "White",
+      "Cost": "4500",
+      "Discount": "5",
+      "id": "ca2a"
+    },
+    {
+      "Category": "",
+      "ItemName": "Ian TV Unit in Walnut Finish",
+      "Discription": "The Ian Engineered Wood Free Standing TV Unit in Classic Walnut Finish is a stylish and functional addition to any living room. Crafted from durable engineered wood, this unit boasts a sleek walnut finish that complements a wide range of interior decors. Its clean, contemporary design features spacious open shelves and closed cabinets, providing ample storage for media equipment, gaming consoles, and decorative items. The sturdy construction ensures stability, while the classic walnut finish adds a warm, sophisticated touch, making it a perfect centerpiece for your entertainment setup. Ideal for both modern and traditional spaces.",
+      "ImageURL": "https://www.ulcdn.net/images/products/721157/slide/666x363/Ian_Open_TV_Unit_with_Castor_wheel_Classic_walnut_1.jpg?1674630553",
+      "ImageURL1": "https://www.ulcdn.net/images/products/721158/slide/666x363/Ian_Open_TV_Unit_with_Castor_wheel_Classic_walnut_2.jpg?1674630566",
+      "ImageURL2": "https://www.ulcdn.net/images/products/721159/slide/666x363/Ian_Open_TV_Unit_with_Castor_wheel_Classic_walnut_3.jpg?1674630580",
+      "ImageURL3": "https://www.ulcdn.net/images/products/721160/slide/666x363/Ian_Open_TV_Unit_with_Castor_wheel_Classic_walnut_4.jpg?1674630594",
+      "Rating": "4.6",
+      "Color": "Brown",
+      "Cost": "4000",
+      "Discount": "3",
+      "id": "a763"
+    },
+    {
+      "Category": "Living room",
+      "ItemName": "Felicity Sofa cum Bed",
+      "Discription": "The Felicity 3 Seater Click Clack Sofa cum Bed in Graphite Grey is a stylish and versatile furniture piece, perfect for modern living spaces. Its sleek, minimalistic design complements any décor, while the deep graphite grey color adds a touch of sophistication. The click-clack mechanism allows for easy transformation from a comfortable sofa to a spacious bed, making it ideal for small apartments or guest rooms. Upholstered in soft yet durable fabric, the sofa cum bed offers both comfort and practicality. With its compact design and multifunctional use, the Felicity sofa is a smart and elegant addition to any home.",
+      "ImageURL": "https://www.ulcdn.net/images/products/497750/slide/666x363/Felicity_Sofa_Cum_bed_Color_Graphite_Grey_1.jpg?1649764975",
+      "ImageURL1": "https://www.ulcdn.net/images/products/497753/slide/666x363/Felicity_Sofa_Cum_bed_Color_Graphite_Grey_2.jpg?1649764977",
+      "ImageURL2": "https://www.ulcdn.net/images/products/497759/slide/666x363/Felicity_Sofa_Cum_bed_Color_Graphite_Grey_4.jpg?1649764982",
+      "ImageURL3": "https://www.ulcdn.net/images/products/497762/slide/666x363/Felicity_Sofa_Cum_bed_Color_Graphite_Grey_5.jpg?1649764984",
+      "Rating": "3.9",
+      "Color": "Grey",
+      "Cost": "25000",
+      "Discount": "9",
+      "id": "9cb9"
+    },
+    {
+      "Category": "Living room",
+      "ItemName": "Helena Console Table",
+      "Discription": "The Helena Solid Wood Console Table is a beautifully crafted piece designed to bring elegance and functionality to any living space. Made from high-quality solid wood, it showcases a natural grain texture that adds warmth and character to its design. The table features a sleek, minimalist silhouette with clean lines, perfect for contemporary or classic interiors. Its sturdy construction ensures durability, while the ample surface area provides space for decorative items, lamps, or daily essentials. Finished with a smooth, polished surface, this console table blends style with practicality, making it a versatile addition to entryways, living rooms, or hallways.",
+      "ImageURL": "https://www.ulcdn.net/images/products/441250/slide/666x363/Helena_Console_Table_Natural_00.jpg?1638357241",
+      "ImageURL1": "https://www.ulcdn.net/images/products/419053/slide/666x363/Helena_Console_Table_Natural_1.jpg?1635852752",
+      "ImageURL2": "https://www.ulcdn.net/images/products/419058/slide/666x363/Helena_Console_Table_Natural_2.jpg?1635852755",
+      "ImageURL3": "https://www.ulcdn.net/images/products/419068/slide/666x363/Helena_Console_Table_Natural_4.png?1635852760",
+      "Rating": "4..4",
+      "Color": "White",
+      "Cost": "21000",
+      "Discount": "13",
+      "id": "4d09"
+    },
+    {
+      "Category": "Kitchen",
+      "ItemName": "Caribu 8 Seater Dining Table",
+      "Discription": "The Caribu 6 to 8 Extendable Ingrid Dining Table Set seamlessly combines elegance and versatility, featuring a sleek extendable table that adapts from seating six to eight guests, making it perfect for both intimate dinners and larger gatherings. The set includes Ingrid chairs upholstered in premium leatherette, offering the luxurious look of leather with enhanced durability and easy maintenance. Crafted with meticulous attention to detail, this dining set showcases a contemporary design with clean lines and a sophisticated finish that complements any modern interior. Elevate your dining experience with this stylish and functional set that promises comfort, quality, and timeless appeal.",
+      "ImageURL": "https://www.ulcdn.net/images/products/219047/slide/666x363/a.jpg?1548833615",
+      "ImageURL1": "https://www.ulcdn.net/images/products/219050/slide/666x363/a1.jpg?1548833615",
+      "ImageURL2": "https://www.ulcdn.net/images/products/219052/slide/666x363/d.jpg?1548833616",
+      "ImageURL3": "https://www.ulcdn.net/images/products/219056/slide/666x363/Caribu_6_to_8_Extendable_Dining_Table_Dimension_Image_1.png?1568107415",
+      "Rating": "4.8",
+      "Color": "White",
+      "Cost": "100000",
+      "Discount": "20",
+      "id": "e5ed"
+    },
+    {
+      "Category": "",
+      "ItemName": "Arabia 8 Seater Dining Table",
+      "Discription": "The Arabia XXL - Zella 8 Seater Dining Table Set is a stylish and spacious dining solution designed for larger gatherings and family meals. Featuring a sleek, contemporary design, this set includes a large rectangular table made from durable, high-quality materials, complemented by eight comfortable chairs. The table boasts a generous surface area, perfect for hosting dinners, parties, or daily meals, while the chairs are ergonomically designed for maximum comfort. The combination of clean lines and elegant finishes makes this dining set an ideal centerpiece for any modern dining room or outdoor space, blending functionality with aesthetic appeal.",
+      "ImageURL": "https://www.ulcdn.net/images/products/136306/slide/666x363/Arabia_Zella_8_Seater_Dining_Table_Set_MHMO_01.jpg?1484119343",
+      "ImageURL1": "https://www.ulcdn.net/images/products/136305/slide/666x363/Arabia_Zella_8_Seater_Dining_Table_Set_MHMO_00.jpg?1484119342",
+      "ImageURL2": "https://www.ulcdn.net/images/products/136314/slide/666x363/Zella_Dining_Chairs_Set_of_2_Orange_5_IMG_858_Orange_Mahogany_DM.jpg?1489576278",
+      "ImageURL3": "https://www.ulcdn.net/images/products/136315/slide/666x363/Arabia_Zella_8_Seater_Dining_Table_Set_MHMO_13.jpg?1484120005",
+      "Rating": "3.9",
+      "Color": "Orange",
+      "Cost": "70000",
+      "Discount": "18",
+      "id": "7111"
+    }
+  ],
+  "contact": [
+    {
+      "id": "dd16",
+      "Name": "Ravi",
+      "Email": "ravi@gmail.com",
+      "PNumber": "9999878987",
+      "Message": "Few hyper links are not working"
+    },
+    {
+      "id": "9439",
+      "Name": "Samantha",
+      "Email": "samantha@gmail.com",
+      "PNumber": "9908978547",
+      "Message": "Delivery issue"
+    },
+    {
+      "id": "f806",
+      "Name": "Dhoni",
+      "Email": "dhoni07@gmail.com",
+      "PNumber": "7895468545",
+      "Message": "Quality issue"
+    },
+    {
+      "id": "33f7",
+      "Name": "Ravi",
+      "Email": "raviraj@gmIL.com",
+      "PNumber": "7789789789",
+      "Message": "Product not yet delivered"
+    },
+    {
+      "id": "3dd9",
+      "Name": "ravi",
+      "Email": "ravi@gmail.com",
+      "PNumber": "9999999999",
+      "Message": "sdvdsgrerfsrgrf"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "1c41",
+      "news": "ravi2334@gmail.com"
+    },
+    {
+      "id": "f814",
+      "news": "sasukeuchiha@gmail.com"
+    },
+    {
+      "id": "21be",
+      "news": "dcddv@sdvvdsv"
+    },
+    {
+      "id": "d9ca",
+      "news": "dddsvv@sdvsvfr"
+    },
+    {
+      "id": "409e",
+      "news": "dvdwvvv@a.c"
+    },
+    {
+      "id": "10d7",
+      "news": "itachiuchiha@gmail.com"
+    },
+    {
+      "id": "f6b3",
+      "news": "ravi@gmail.com"
+    },
+    {
+      "id": "ef6a",
+      "news": "ravi@gmail.com"
+    },
+    {
+      "id": "63e9",
+      "news": "rambabu@gmail.com"
+    }
+  ],
+  "Reviews": [
+    {
+      "id": "6543",
+      "ReviewerId": "3492",
+      "ReviewerName": "Bhuvana",
+      "ReviewerMessage": "This bed is exactly what I was looking for! The solid wood construction feels incredibly sturdy, and the finish is beautiful. Assembly was straightforward, and it fits perfectly in our bedroom. We've been using it for a few months now, and it's holding up great. Highly recommend!",
+      "value": 4
+    },
+    {
+      "id": "4513",
+      "ReviewerId": "3492",
+      "ReviewerName": "Ramesh",
+      "ReviewerMessage": "The design of the Duetto bed is elegant and timeless. The wood is of high quality, and it adds a warm, natural feel to our room. The only reason I'm giving it four stars is that the instructions could have been a bit clearer, but overall, I'm very happy with this purchase.",
+      "value": 5
+    },
+    {
+      "id": "0e9e",
+      "ReviewerId": "3492",
+      "ReviewerName": "Luffy",
+      "ReviewerMessage": "The bed is exactly as described. The wood is thick and sturdy, and it has a beautiful finish. I deducted one star because one of the slats was slightly warped, but it hasn't affected the bed's performance. Overall, I’m pleased with the purchase and would recommend it.",
+      "value": 4
+    },
+    {
+      "id": "4309",
+      "ReviewerId": "62a4",
+      "ReviewerName": "Ravi",
+      "ReviewerMessage": "The Lewis Sectional Sofa is the perfect addition to our living room! It’s incredibly comfortable, with just the right amount of firmness and softness. The fabric feels luxurious, and the color complements our decor beautifully. The sectional design allows us to rearrange it according to our space needs, making it versatile. Highly recommend it!",
+      "value": 5
+    },
+    {
+      "id": "9ce5",
+      "ReviewerId": "62a4",
+      "ReviewerName": "Ram",
+      "ReviewerMessage": "Not as expected\n",
+      "value": 2
+    },
+    {
+      "id": "0415",
+      "ReviewerId": "62a4",
+      "ReviewerName": "Lavanya",
+      "ReviewerMessage": "This sofa exceeded my expectations! The quality is top-notch, and it’s incredibly comfortable for both sitting and lying down. The sectional design is perfect for our open-concept living area, and we’ve received so many compliments on it. It’s a bit on the pricier side, but totally worth the investment!",
+      "value": 5
+    },
+    {
+      "id": "b5e3",
+      "ReviewerId": "3492",
+      "ReviewerName": "John wick",
+      "ReviewerMessage": "Quality is not good\n",
+      "value": 1
+    },
+    {
+      "id": "a691",
+      "ReviewerId": "13a4",
+      "ReviewerName": "Ravi",
+      "ReviewerMessage": "Very Good Product\n",
+      "value": 5
+    },
+    {
+      "id": "8901",
+      "ReviewerId": "7111",
+      "ReviewerName": "Raviraj",
+      "ReviewerMessage": "Quality is good",
+      "value": 5
+    },
+    {
+      "id": "8efb",
+      "ReviewerId": "62a4",
+      "ReviewerName": "Rvi",
+      "ReviewerMessage": "good\n",
+      "value": 4
+    },
+    {
+      "id": "0964",
+      "ReviewerId": "4e8c",
+      "ReviewerName": "Arjun",
+      "ReviewerMessage": "very nice fabric...",
+      "value": 4
+    },
+    {
+      "id": "977a",
+      "ReviewerId": "4e8c",
+      "ReviewerName": "Ravi",
+      "ReviewerMessage": "issue with colour\n",
+      "value": 1
+    }
+  ],
+  "Blog": [
+    {
+      "Bloger": "Jiraya ",
+      "BlogDate": "2024-08-15",
+      "BlogerImg": "https://img.freepik.com/free-photo/smiley-handsome-man-posing_23-2148911841.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>The way we furnish our homes reflects our personal style and influences how we feel in our space. Whether you’re looking to revamp a single room or give your entire home a makeover, staying on top of current furniture trends can offer inspiration and ensure your interiors are both stylish and functional. Here’s a look at some of the top furniture trends that can transform your space.</p>\n<h4>1. Sustainable and Eco-Friendly Materials</h4>\n<p>Sustainability is more than a buzzword—it’s a lifestyle. This year, eco-friendly furniture made from reclaimed wood, bamboo, and other sustainable materials is at the forefront of design. These pieces not only look beautiful but also contribute to a healthier planet. Opt for furniture that is made with non-toxic finishes and organic fabrics to create a space that’s both stylish and environmentally responsible.</p>\n<h4>2. Multifunctional Furniture</h4>\n<p>With the rise of smaller living spaces, multifunctional furniture is becoming increasingly popular. Think of sofa beds, extendable dining tables, and ottomans with hidden storage. These pieces are designed to maximize functionality without sacrificing style. Multifunctional furniture is perfect for those who want to make the most of their space, especially in urban settings where square footage is at a premium.</p>\n<h4>3. Bold Colors and Patterns</h4>\n<p>Gone are the days of neutral tones dominating interior design. Today, bold colors and patterns are making a statement in homes across the world. From vibrant jewel tones to striking geometric patterns, these elements add personality and energy to any room. Don’t be afraid to mix and match different colors and patterns to create a dynamic and visually appealing space.</p>\n<h4>4. Curved and Organic Shapes</h4>\n<p>Furniture with curved, organic shapes is trending this year, offering a soft and inviting aesthetic. Rounded sofas, circular coffee tables, and curved headboards create a sense of fluidity and comfort in a room. These pieces break away from the rigid lines of traditional furniture, adding a touch of elegance and whimsy to your home.</p>\n<h4>5. Vintage and Retro Styles</h4>\n<p>Nostalgia plays a big role in current furniture trends, with vintage and retro styles making a strong comeback. Mid-century modern furniture, with its clean lines and minimalist aesthetic, continues to be a favorite. Additionally, the charm of 1970s-inspired designs, with bold colors and funky patterns, is finding its way back into contemporary homes. Incorporating vintage pieces can add character and history to your space.</p>\n<h4>6. Minimalist Aesthetics</h4>\n<p>While bold colors and patterns are trending, minimalism still holds a significant place in modern design. The \"less is more\" philosophy is embraced by many, with a focus on clean lines, simple forms, and uncluttered spaces. Minimalist furniture is often characterized by neutral colors, natural materials, and a focus on functionality. This trend is perfect for creating a serene and calming environment.</p><h4>7. Tech-Integrated Furniture</h4>\n<p>As technology becomes an integral part of our daily lives, tech-integrated furniture is becoming more common. From smart coffee tables with built-in charging stations to beds with adjustable bases and Bluetooth speakers, these pieces blend technology with convenience. This trend is ideal for those who want to stay connected while maintaining a sleek and modern aesthetic.</p>\n<h4>Conclusion</h4>\n<p>Updating your furniture is one of the easiest ways to transform your living space. By incorporating these top trends, you can create a home that’s not only stylish but also reflective of your personal taste and values. Whether you’re drawn to the sustainability of eco-friendly materials, the boldness of vibrant patterns, or the comfort of curved designs, there’s a trend out there that can help you achieve the look and feel you desire. So, why wait? Start exploring these trends and give your home the refresh it deserves!</p>",
+      "BlogImg": "https://cdn.mos.cms.futurecdn.net/LGjdEXu8Gr98Ncm4QdjJKg.jpg",
+      "BlogTitle": "Transform Your Space with These Top Furniture Trends",
+      "id": "44a5"
+    },
+    {
+      "id": "d560",
+      "Bloger": "Nagato",
+      "BlogDate": "2024-08-08",
+      "BlogerImg": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>When it comes to furnishing a home, certain pieces of furniture are essential for both functionality and style. Whether you're moving into a new space or looking to update your current one, having the right furniture can make all the difference. Here are five must-have pieces that every home should include.<p>\n<h4>1. A Comfortable Sofa</h4>\n<p>The sofa is the centerpiece of your living room, where you’ll relax, entertain guests, and spend quality time with family. Investing in a high-quality, comfortable sofa is crucial. Look for one that fits your space and style, whether you prefer a sleek, modern design or something more plush and cozy. Choose a neutral color for versatility, and consider durability if you have pets or children.</p>\n<h4>2. A Functional Dining Table</h4>\n<p>A dining table is more than just a place to eat; it’s where memories are made over shared meals. Whether you have a dedicated dining room or a small kitchen nook, a functional dining table is essential. Opt for a table that suits your needs, whether it’s a compact drop-leaf table for a small space or an extendable one for hosting dinner parties. Consider materials like wood or metal based on your home’s aesthetic.</p>\n<h4>3. A Sturdy Bed Frame</h4>\n<p>Your bed is the most important piece of furniture in your home, as it directly impacts your sleep quality. A sturdy bed frame that provides adequate support for your mattress is a must-have. Choose one that complements your bedroom decor, whether it’s a minimalist platform bed, a classic wooden frame, or an upholstered headboard for added comfort. Don’t forget to invest in a good-quality mattress to ensure restful nights.</p>\n<h4>4. Versatile Storage Solutions</h4>\n<p>Clutter can quickly take over a home, so having versatile storage solutions is key to maintaining a tidy and organized space. Consider multi-functional furniture like ottomans with hidden storage, bookshelves that double as room dividers, or coffee tables with built-in storage. Cabinets, dressers, and sideboards are also essential for keeping items neatly tucked away while adding to the room’s decor.</p>\n<h4>5. Accent Chairs</h4>\n<p>Accent chairs are not only functional but also add a touch of personality to your living space. These versatile pieces can be used in various rooms, from the living room to the bedroom or even the home office. Choose an accent chair that complements your existing furniture while adding a pop of color or texture. Whether you prefer a mid-century modern style, a cozy armchair, or a chic slipper chair, an accent chair is a must-have for creating a well-rounded space.</p>\n<h4>Final Thoughts</h4><p>These five essential furniture pieces serve as the foundation for a well-furnished home. By choosing quality, versatile items that suit your style and needs, you can create a space that’s not only functional but also reflects your personality. As you shop for these must-haves, remember to consider the layout, color scheme, and overall vibe of your home to ensure a cohesive and inviting atmosphere.</p>",
+      "BlogImg": "https://cdn.autonomous.ai/production/ecm/240624/top-furniture-trends-you-dont-want-to-miss.webp",
+      "BlogTitle": "Five Must-Have Pieces for Every Home to Attaract"
+    },
+    {
+      "id": "264e",
+      "Bloger": "Yasmin",
+      "BlogDate": "2024-08-10",
+      "BlogerImg": "https://img.freepik.com/free-photo/fashionable-young-woman-standing-front-blue-backdrop_23-2148204718.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>When it comes to furnishing your living room, the sofa is often the centerpiece—a place to relax, entertain, and enjoy time with family and friends. But with so many styles, sizes, and materials available, choosing the perfect sofa can feel overwhelming. This guide will help you navigate the key considerations to find a sofa that suits your space, lifestyle, and taste.<p>\n<h4>1. Assess Your Space</h4>\n<p>Before you start browsing, it's crucial to measure your living room and determine how much space you have for a sofa. Consider the following:\n    Room Size: Ensure the sofa you choose fits comfortably in the space without overwhelming it. For smaller rooms, consider a loveseat or a compact sectional. Larger rooms can accommodate more substantial, statement pieces.\n    Traffic Flow: Think about how people will move around the room. Make sure there's enough space to walk around the sofa and that it doesn't block any entryways or windows.\n    Functionality: If you have an open floor plan, consider how the sofa will divide or connect different areas of your home.</p>\n<h4>2. Determine Your Style</h4>\n<p>Your sofa should reflect your personal style and complement the existing decor of your home. Here are some popular styles to consider:\n    Modern: Clean lines, minimalist design, and neutral colors characterize modern sofas. Look for pieces with metal or wooden legs and simple upholstery.\n    Traditional: Traditional sofas often feature rolled arms, tufted backs, and classic silhouettes. Rich fabrics like velvet or leather can enhance the elegance of this style.\n    Contemporary: A blend of modern and traditional, contemporary sofas offer a fresh, up-to-date look with unique shapes and bold colors.\n    Sectional: Ideal for larger spaces, sectional sofas provide ample seating and can be customized to fit your room's layout.</p>\n<h4>3. Choose the Right Material</h4>\n<p>The material of your sofa affects not only its appearance but also its durability and comfort. Consider your lifestyle when choosing upholstery:\n    Fabric: Fabric sofas offer a wide range of colors and patterns. They are generally more comfortable and breathable but can be prone to staining. Choose a durable fabric like microfiber for high-traffic areas.\n    Leather: Leather sofas are luxurious, durable, and easy to clean. They develop a beautiful patina over time, but they can be more expensive and less comfortable in hot or cold weather.\n    Velvet: Velvet sofas are soft, plush, and add a touch of luxury to any room. However, they can be more challenging to maintain and are not ideal for homes with pets or young children.\n    Performance Fabrics: These materials are designed to resist stains, wear, and tear, making them an excellent choice for families or homes with pets.</p>\n<h4>4. Consider Comfort and Support</h4>\n<p>A sofa should be comfortable and provide the right level of support for your needs. Pay attention to the following factors:\n    Seat Depth: A deeper seat is more comfortable for lounging, while a shallower seat is better for sitting upright. Consider who will be using the sofa most often and their preferred seating style.\n    Cushion Fillings: The type of cushion filling affects the sofa's comfort and longevity. Foam cushions offer firm support and retain their shape, while down-filled cushions are softer but require more maintenance.\n    Back Height: A higher back provides more support for your neck and shoulders, while a lower back gives a sleeker, more modern look.</p>\n<h4>5. Think About Longevity</h4>\n<p>A sofa is a significant investment, so you'll want to choose one that will stand the test of time. Look for the following qualities:\n    Frame: A solid hardwood frame, like oak or maple, ensures durability. Avoid sofas with frames made of particleboard or plastic.\n    Joinery: The way the frame is constructed matters. Look for frames with dowels, screws, or corner blocks, as these methods provide greater stability than staples or nails.\n    Warranty: A good warranty is a sign of a manufacturer's confidence in their product. Look for sofas that come with at least a 5-10 year warranty on the frame.</p>\n<h4>Conclusion</h4>\n<p>Choosing the perfect sofa is about more than just finding a piece that looks good—it's about finding a piece that fits your space, suits your lifestyle, and offers comfort and durability. By considering these factors, you'll be well on your way to finding a sofa that you'll love for years to come. Happy shopping!</p>",
+      "BlogImg": "https://foyr.com/learn/wp-content/uploads/2021/07/home-decor-trends-2021.jpg",
+      "BlogTitle": "The Ultimate Guide to Choosing the Perfect Sofa"
+    },
+    {
+      "id": "8285",
+      "Bloger": "Sirisha",
+      "BlogDate": "2024-08-13",
+      "BlogerImg": "https://img.freepik.com/free-photo/front-view-smiley-girl-looking-away_23-2148244695.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>In today’s world, the home office has become a vital part of our daily lives. Whether you’re working remotely, running a small business, or simply need a space for personal projects, having a well-designed home office can significantly impact your productivity and well-being. One of the key elements in creating an effective and inspiring workspace is choosing the right furniture. Let’s explore how you can elevate your home office with stylish furniture that combines functionality, comfort, and aesthetic appeal.</p>\n<h4>1. Start with the Basics: A Comfortable Desk and Chair</h4>\n<p>The desk and chair are the cornerstones of any home office. When selecting a desk, consider your work needs. Do you need ample space for multiple monitors, or is a minimalist desk more your style? Look for designs that complement your home’s decor, whether it’s a sleek modern desk or a classic wooden one.</p>\n<p>Your chair is equally important. Ergonomics should be a top priority, but that doesn’t mean you have to sacrifice style. Many office chairs are designed with both comfort and aesthetics in mind, featuring clean lines, quality materials, and a range of colors to match your office theme.</p>\n<h4>2. Incorporate Storage Solutions that Double as Decor</h4>\n<p>Clutter can quickly turn a productive workspace into a chaotic one. Stylish storage solutions like floating shelves, chic bookcases, or elegant filing cabinets help keep your office organized while adding a decorative touch. Choose pieces that offer both form and function, like a bookcase with an eye-catching design or a storage ottoman that doubles as seating.</p>\n<h4>3. Add Personality with Decorative Accents</h4>\n<p>Personalize your home office with decorative accents that reflect your style. This could include artwork, potted plants, or unique lighting fixtures. A well-chosen rug can also tie the room together, adding warmth and texture to the space. These elements not only enhance the visual appeal of your office but also create a welcoming environment where you’ll enjoy spending time.</p>\n<h4>4. Optimize Lighting for Both Ambiance and Functionality</h4>\n<p>Good lighting is essential in any workspace. Natural light is ideal, but when that’s not an option, stylish desk lamps or floor lamps can provide the illumination you need. Consider adjustable lighting options that allow you to change the brightness based on your tasks. A statement light fixture can also serve as a focal point in your home office, blending function with style.</p>\n<h4>5. Choose Multifunctional Furniture for Versatility</h4>\n<p>If your home office doubles as a guest room or a space for other activities, multifunctional furniture is a smart choice. Look for pieces like a desk that can convert into a dining table or a sofa that turns into a bed. This not only maximizes the utility of your space but also ensures that your office remains stylish and uncluttered.</p>\n<h4>6. Invest in Quality Pieces That Will Last</h4>\n<p>While it might be tempting to opt for cheaper furniture, investing in quality pieces will pay off in the long run. High-quality furniture not only looks better but is also more durable, providing you with comfort and functionality for years to come. Consider timeless designs that won’t go out of style, ensuring your home office remains chic and functional even as trends change.</p>\n<h4>Conclusion</h4>\n<p>Creating a stylish home office is about more than just aesthetics; it’s about crafting a space that inspires creativity and productivity. By carefully selecting furniture that combines style, comfort, and practicality, you can transform your home office into a place where you’ll enjoy working every day. Whether you’re starting from scratch or looking to update your current setup, these tips will help you elevate your home office with furniture that’s as stylish as it is functional.</p>",
+      "BlogImg": "https://www.duroply.in/blog/wp-content/uploads/2017/12/3-Office-Furniture-Trends-That-Will-Dominate-2023.jpg",
+      "BlogTitle": "Elevate Your Home Office with Stylish Furniture"
+    },
+    {
+      "id": "0a26",
+      "Bloger": "Naruto",
+      "BlogDate": "2024-08-15",
+      "BlogerImg": "https://img.freepik.com/free-photo/brunette-man-isolated-white-background_1368-4405.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>In today's world, where environmental consciousness is on the rise, making sustainable choices in every aspect of our lives has become more important than ever. Our homes, where we spend a significant amount of time, offer a great opportunity to incorporate eco-friendly practices. One impactful way to do this is by choosing sustainable furniture. Not only does it help reduce our carbon footprint, but it also contributes to a healthier living environment. Here’s how you can make sustainable furniture choices for a greener home.</p>\n<h4>1. Opt for Reclaimed or Recycled Materials</h4>\n<p>Furniture made from reclaimed or recycled materials is one of the best ways to ensure sustainability. Reclaimed wood, for example, is often sourced from old buildings, barns, or discarded wood, giving it a second life. Similarly, furniture made from recycled metal, glass, or plastic helps reduce waste and the need for new raw materials. By choosing these options, you contribute to conserving natural resources and reducing the environmental impact of manufacturing.</p>\n<h4>2. Choose FSC-Certified Wood</h4>\n<p>The Forest Stewardship Council (FSC) certification is a globally recognized standard for responsible forest management. When purchasing wooden furniture, look for the FSC label, which ensures that the wood comes from responsibly managed forests that provide environmental, social, and economic benefits. This certification helps combat deforestation and promotes biodiversity.</p>\n<h4>3. Support Local Artisans and Craftsmen</h4>\n<p>Buying furniture from local artisans and craftsmen not only supports the local economy but also reduces the carbon footprint associated with transportation. Locally made furniture often uses locally sourced materials, which means fewer emissions from shipping and less environmental impact. Additionally, handcrafted pieces tend to be more durable and unique, offering both sustainability and style.</p>\n<h4>4. Consider Second-Hand or Vintage Furniture</h4>\n<p>Second-hand or vintage furniture is not only a budget-friendly option but also a sustainable one. By purchasing pre-loved items, you are extending the life cycle of furniture and preventing it from ending up in landfills. Vintage pieces also add character and charm to your home, making your space truly one-of-a-kind.</p>\n<h4>5. Look for Non-Toxic Finishes and Materials</h4>\n<p>Many conventional furniture pieces are made with materials that emit harmful chemicals, such as formaldehyde and volatile organic compounds (VOCs). To create a healthier home environment, choose furniture made with non-toxic finishes and materials. Look for items labeled as low-VOC or free from harmful chemicals, and opt for natural materials like organic cotton, wool, and linen.</p>\n<h4>6. Invest in Timeless, High-Quality Pieces</h4>\n<p>Sustainability is not just about the materials used but also about the longevity of the product. Investing in high-quality, timeless furniture ensures that your pieces will last for years, reducing the need for frequent replacements. Look for well-constructed items with classic designs that won’t go out of style, so you can enjoy them for a long time.</p>\n<h4>Conclusion</h4>\n<p>Creating a greener home starts with making mindful choices, and sustainable furniture is a great place to begin. Whether you’re furnishing a new space or updating your current one, consider incorporating these sustainable practices into your decision-making process. Not only will you be contributing to a healthier planet, but you’ll also be creating a beautiful and eco-friendly home that reflects your values.</p>",
+      "BlogImg": "https://www.sunonglobal.com/bocupload/at/image/20230106/16729717978274091WeU.png",
+      "BlogTitle": "Sustainable Furniture Choices for a Greener Home"
+    },
+    {
+      "id": "d8a9",
+      "Bloger": "Sakura",
+      "BlogDate": "2024-08-18",
+      "BlogerImg": "https://img.freepik.com/free-photo/beautiful-woman-standing-against-yellow-wall_23-2148204587.jpg?uid=R159363964&ga=GA1.1.880128525.1722358692&semt=ais_hybrid",
+      "BlogContent": "<p>A good night’s sleep is essential for maintaining your overall well-being, and the bed you choose plays a crucial role in achieving that. The right bed can transform your sleeping experience, providing the comfort and support you need for a truly restful night. But with so many options available, how do you choose the best bed for your needs? In this blog, we’ll explore some of the top bed options designed to maximize comfort and ensure you wake up feeling refreshed.</p>\n<h4>1. Memory Foam Mattresses: Contouring Comfort</h4>\n<p>Memory foam mattresses are a popular choice for those seeking personalized comfort. These mattresses conform to your body shape, providing support where you need it most. The material evenly distributes your weight, reducing pressure points and helping to alleviate aches and pains. Memory foam also minimizes motion transfer, making it an excellent option for couples. If you’re looking for a bed that adapts to your body and promotes deep sleep, a memory foam mattress could be the perfect fit.</p>\n<h4>2. Hybrid Mattresses: The Best of Both Worlds</h4>\n<p>Hybrid mattresses combine the benefits of memory foam and innerspring coils, offering a balanced sleeping experience. The foam layers provide cushioning and pressure relief, while the coils add support and bounce. This combination is ideal for those who want the contouring feel of memory foam without sacrificing the traditional support of an innerspring mattress. Hybrids are versatile, catering to a wide range of sleep preferences, and are great for those who sleep in multiple positions throughout the night.</p>\n<h4>3. Adjustable Beds: Customized Comfort</h4>\n<p>Adjustable beds allow you to customize your sleeping position with just the push of a button. Whether you need to elevate your head to reduce snoring or raise your legs to relieve pressure on your lower back, adjustable beds offer the flexibility to find your perfect sleeping angle. Many models come with additional features like massage functions and under-bed lighting, enhancing your overall comfort and relaxation. If you have specific health concerns or simply enjoy the luxury of tailored comfort, an adjustable bed is a worthwhile investment.</p>\n<h4>4. Pillow-Top Mattresses: Plush and Luxurious</h4>\n<p>For those who crave a soft and cushy sleeping surface, pillow-top mattresses are a fantastic choice. These beds feature an extra layer of padding sewn onto the top of the mattress, creating a plush feel that’s perfect for sinking into at the end of a long day. Pillow-top mattresses are available in various materials, including memory foam, latex, and innerspring, allowing you to choose the level of support that best suits your needs. The added cushioning is especially beneficial for side sleepers, as it helps to reduce pressure on the shoulders and hips.</p>\n<h4>5. Latex Mattresses: Natural Support and Breathability</h4>\n<p>Latex mattresses are known for their durability, support, and natural breathability. Made from either natural or synthetic latex, these mattresses offer a responsive and bouncy feel while providing excellent support. Latex is naturally resistant to dust mites and mold, making it a great option for those with allergies. Additionally, latex mattresses tend to sleep cooler than memory foam, making them a good choice for hot sleepers. If you’re looking for a bed that’s supportive, long-lasting, and environmentally friendly, a latex mattress might be the perfect option.</p>\n<h4>6. Innerspring Mattresses: Classic Support</h4>\n<p>Innerspring mattresses are the most traditional type of mattress, known for their firm support and durability. These beds use a system of metal coils to provide a supportive and responsive sleeping surface. Innerspring mattresses are often topped with various layers of foam or padding to add comfort, and they come in a wide range of firmness levels. They’re an excellent choice for those who prefer a more traditional feel or need a firmer bed for back support.p>\n<h4>Conclusion</h4>\n<p>Choosing the best bed for a restful sleep depends on your individual needs and preferences. Whether you prefer the contouring comfort of memory foam, the balanced feel of a hybrid, or the customizable features of an adjustable bed, there’s a perfect option out there for you. Investing in a high-quality bed not only enhances your sleep but also contributes to your overall health and well-being. Remember, the key to maximizing comfort is finding the bed that suits your sleep style and supports your body throughout the night. Sweet dreams!</p>",
+      "BlogImg": "https://blog.luxury-italianfurniture.com/hubfs/luxury-bedroom-furniture-colours-trends-interior-ideas-lif.jpg",
+      "BlogTitle": "Maximizing Comfort: Best Beds for a Restful Sleep"
+    }
+  ],
+  "sample": [
+    {
+      "id": "22d2",
+      "Name": "ravi",
+      "Password": "lkdfdfdcd"
+    },
+    {
+      "id": "10d4",
+      "Name": "Ravi",
+      "Password": "1q2w3e4r"
+    }
+  ]
+}
