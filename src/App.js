@@ -10,7 +10,10 @@ export const checkLogin=createContext();
 export const DataAuth=createContext();
 
 function App() {
-  const [DoLogin,SetDoLogin]=useState(false)
+const [DoLogin, SetDoLogin] = useState(() => {
+  const saved = localStorage.getItem("DoLogin");
+  return saved === "true"; // this will return true if stored value is "true"
+});
   const [Token,SetToken]=useState("")
   const [cartItems,SetCartItems]=useState([])
   const [wishlist,Setwishlist]=useState([])

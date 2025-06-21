@@ -15,6 +15,7 @@ const Header = () => {
     localStorage.removeItem("token");
     SetToken("");
     SetDoLogin(false);
+    localStorage.setItem("DoLogin", "false");
     setData({});
   };
   

@@ -23,6 +23,7 @@ const Login = () => {
       // Optional: Validate token here if necessary
       SetToken(storedToken);
       SetDoLogin(true);
+      localStorage.setItem("DoLogin", "true");
     }
   }, []);
 
@@ -47,6 +48,7 @@ const Login = () => {
           localStorage.removeItem("token");
           SetToken("");
           SetDoLogin(false);
+          localStorage.setItem("DoLogin", "false");
         });
     }
   }, [Token]);
@@ -61,6 +63,7 @@ const Login = () => {
           localStorage.setItem("token", res.data.token);
           SetToken(res.data.token);
           SetDoLogin(true);
+          localStorage.setItem("DoLogin", "true");
           toast.success("Login successful");
         } else {
           toast.error("Login unsuccessful");
