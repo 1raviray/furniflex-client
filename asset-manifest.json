@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/furniflex-client/static/css/main.980cced7.css",
-    "main.js": "/furniflex-client/static/js/main.293e871c.js",
+    "main.js": "/furniflex-client/static/js/main.8673fca7.js",
     "static/js/453.85877bae.chunk.js": "/furniflex-client/static/js/453.85877bae.chunk.js",
     "static/media/table-chair-couch-clip-art-transparent-brown-leather-chair-png-clipart-png": "/furniflex-client/static/media/table-chair-couch-clip-art-transparent-brown-leather-chair-png-clipart-b45f1d15e51c75f4226f66951186e401.c9b596b169c3e95ac686.png",
     "static/media/kindpng_687243.png": "/furniflex-client/static/media/kindpng_687243.310b78a78eb4cfe57335.png",
@@ -33,11 +33,11 @@
     "static/media/incorrect-cross-symbol-f6mt8m7c6sxg1sp7.png": "/furniflex-client/static/media/incorrect-cross-symbol-f6mt8m7c6sxg1sp7.34b593da93be252a3f77.png",
     "index.html": "/furniflex-client/index.html",
     "main.980cced7.css.map": "/furniflex-client/static/css/main.980cced7.css.map",
-    "main.293e871c.js.map": "/furniflex-client/static/js/main.293e871c.js.map",
+    "main.8673fca7.js.map": "/furniflex-client/static/js/main.8673fca7.js.map",
     "453.85877bae.chunk.js.map": "/furniflex-client/static/js/453.85877bae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.980cced7.css",
-    "static/js/main.293e871c.js"
+    "static/js/main.8673fca7.js"
   ]
 }
