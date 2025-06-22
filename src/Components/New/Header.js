@@ -103,7 +103,7 @@ const Header = () => {
                 </NavLink>
               </li>
             </ul>
-            <div className=" d-flex align-items-center">
+            <div className=" d-flex align-items-center justify-content-center">
               <span className=" px-3">
               <Link to={"/wishlist"} className=" text-white text-decoration-none">
               <div className=" position-relative">

@@ -68,7 +68,7 @@ const Contact = () => {
         <div className=' container-fluid title-name'>
             <h1 className=' text-center'>Contact Us</h1>
         </div>
-        <div className=' container p-5'>
+        <div className=' container p-3 p-lg-5'>
             <div className=' row py-5'>
                 <div className=' col-12 col-md-6'>
                     <h2 className=' fw-semibold'>Get in touch</h2>

@@ -22,15 +22,15 @@ const Admin_login = () => {
 
   return (
     <div className='container-fluid d-flex m-auto' style={{height:'100vh'}}>
-        <div className=' col-4 m-auto primary-bgcolor p-5 rounded-5 text-white shadow'>
+        <div className=' col-10 col-lg-4 m-auto primary-bgcolor p-3 p-lg-5 rounded-5 text-white shadow'>
             <h3 className=' text-center mb-3'>Admin Login</h3>
-            <form className=' form-check' onSubmit={AdminCheck}>  
+            <form className=' form-check p-0' onSubmit={AdminCheck}>  
                 <label>Username</label>
                 <input type='text' className='mb-3 form-control' value={Username} onChange={(e)=>SetUsername(e.target.value)} />
                 <label>Password</label>
                 <input type='password' className='mb-3 form-control' value={Password} onChange={(e)=>SetPassword(e.target.value)}/>
                 <p id='error' className=' text-danger m-0'></p>
-                <input type='submit' value="Submit" className='my-3 btn btn-warning w-100' />
+                <input type='submit' value="Submit" className=' my-2 mb-3 my-lg-3 btn btn-warning w-100' />
             </form>
         </div>
     </div>

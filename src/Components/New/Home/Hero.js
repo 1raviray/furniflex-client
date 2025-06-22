@@ -17,8 +17,8 @@ const Hero = () => {
   }
 
   return (
-    <div className=' primary-bgcolor d-flex align-items-center py-5' style={{height:'100%'}}>
-      <div className=' container-fluid pt-5'>
+    <div className=' primary-bgcolor d-flex align-items-center py-2 py-lg-5' style={{height:'100%'}}>
+      <div className=' container-fluid pt-3 pt-lg-5'>
         <div className=' row'>
           <div className=' col-12 col-md-6 col-lg-5 wraper-anime '>
             <div className=' text-white ps-lg-5'>

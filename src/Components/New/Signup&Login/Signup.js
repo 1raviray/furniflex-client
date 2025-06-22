@@ -94,7 +94,7 @@ const Signup = () => {
   return (
     <div className=' container-fluid p-0 primary-bgcolor text-white d-flex align-items-center' style={{height:'100vh'}}>
             <ToastContainer />
-        <div className=' col-4 m-auto rounded-5 shadow p-4 px-5 bg-white'>
+        <div className=' col-10 col-lg-4 m-auto rounded-5 shadow p-4 px-5 bg-white'>
             <h3 className=' text-center fw-bold my-4 text-dark'>Register</h3>
             <form onSubmit={Signupform}>
                 <input type='text' placeholder='Name' className=' form-control my-2' value={Name} onChange={(e)=>SetName(e.target.value)} />

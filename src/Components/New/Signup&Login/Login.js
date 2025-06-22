@@ -85,7 +85,7 @@ const Login = () => {
       style={{ height: "100vh" }}
     >
       <ToastContainer />
-      <div className="col-4 m-auto rounded-5 shadow p-4 px-5 bg-white">
+      <div className="col-10 col-lg-4 m-auto rounded-5 shadow p-4 px-5 bg-white">
         <h3 className="text-center fw-bold my-4 text-dark">Login</h3>
         <form onSubmit={Loginform}>
           <input

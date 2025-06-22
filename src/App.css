@@ -61,6 +61,7 @@
 }
 .active{
     position: relative;
+    z-index: 3;
 }
 /* .active::before{
     content: '';
@@ -72,7 +73,11 @@
     bottom: 0;
     left: 0;
 } */
-
+.navlink {
+    text-align: center;
+    position: relative;
+    z-index: 1 !important;
+}
 .navlink::before{
     content: '';
     height: 3px;
@@ -82,7 +87,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    transform: translateX(-200px);
+    transform: translateX(-100%);
     transition: all 0.5s;
 }
 .navlink:hover::before{
@@ -709,6 +714,11 @@ button:focus:not(:focus-visible) {
     }
     .input-radio:checked + label{
         width: 300px;
+    }
+    .navlink::before{
+        height: 90%;
+        z-index: -1;
+        transform: translateX(-100%);
     }
     .about-border{
         border-radius: 10px;
